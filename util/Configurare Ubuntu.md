@@ -37,3 +37,22 @@ pe sistemele destinate utilizatorilor comuni.
 ```
 sudo apt-get install manpages manpages-dev manpages-posix manpages-posix-dev
 ```
+
+#### Editor
+
+Pentru a folosi versiune îmbunătățită a `vi` trebuie să instalați pachetul `vim`
+Aceasta oferă facilități suplimentare sub forma mai multor comenzi și suport pentru tastaturi
+extinse.
+
+```
+sudo apt-get install vim
+```
+
+#### Midnight Commander
+
+O unealtă de gestiune a fișierelor din linia de comandă, care poate face viața mai ușoară
+în administrarea sistemul
+
+```
+sudo apt-get install mc
+```
